@@ -1,3 +1,4 @@
+wechathook
 pc端经常掉线被扫号太难受了，只是想做个信息整理却反复掉线。
 不妨试试这个手机hook 完全不需要扫码拿着手机就走，可对接服务器。
 通过tg联系我吧。https://t.me/zacaowechat
